@@ -3,6 +3,5 @@
     "fixturesFolder": "fixtures",
     "integrationFolder": "specs",
     "pluginsFile": "plugins",
-    "screenshotsFolder": "screenshots",
     "supportFile": "support"
 }
